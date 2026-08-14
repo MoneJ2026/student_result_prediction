@@ -43,6 +43,7 @@ database = st.number_input(
 )
 
 
+
 attendance = st.number_input(
     "Attendance (%)",
     min_value=0,
