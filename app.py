@@ -102,3 +102,4 @@ if st.button("Predict Result"):
     st.info(
         f"Predicted Grade: {grade}"
     )
+   
